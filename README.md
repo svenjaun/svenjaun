@@ -1,15 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Sven Jaun</h1>
-<h3 align="center">A full stack developer from Switzerland</h3>
+<h3 align="center">A apprentice software developer from Switzerland</h3>
+<h4 align="center">Currently I'm not very active on my github as I'm focusing on my education. But when I'm done with that, I'd like to start and finish more small projects and collaborate on more open source projects.  </h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=svenjaun&label=Profile%20views&color=0e75b6&style=flat" alt="svenjaun" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svenjaun" alt="svenjaun" /></a> </p>
 
-- 🔭 I’m currently working on: **Private Python and C++ projects to automate my house with microcontrollers**
+- 🔭 I’m currently working on: **Private Python and C++ projects to automate my house with microcontrollers and raspberry pi**
 
-- 🌱 I’m currently improving in: **Java**
+- 🌱 I’m currently improving in: **Java and SQL**
 
-- 👯 I’m looking to collaborate on: **Should probablyy start with this one**
+- 👯 I’m looking to collaborate on: **I would like to start as soon as I have time **
 
 - 👨‍💻 All of my projects are available at: [https://github.com/svenjaun](https://github.com/svenjaun)
 
@@ -19,9 +20,9 @@
 
 - ⚡ Interesting about me: **Ever heard of a NFC-Implant? If you see me once you can scan me :D --- https://en.wikipedia.org/wiki/Microchip_implant_(human)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on my own little discord server:</h3>
 <p align="left">
-<a href="https://discord.gg/hB6nJWNHk2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="hB6nJWNHk2" height="30" width="40" /></a>
+<a href="https://discord.gg/hB6nJWNHk2" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="hB6nJWNHk2" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and tools I am familiar with or use frequently:</h3>
