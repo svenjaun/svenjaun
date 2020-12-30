@@ -2,8 +2,6 @@
 <h3 align="center">A apprentice software developer from Switzerland</h3>
 <h4 align="center">Currently I'm not very active on my github as I'm focusing on my education. But when I'm done with that, I'd like to start and finish more small projects and collaborate on more open source projects.  </h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=svenjaun&label=Profile%20views&color=0e75b6&style=flat" alt="svenjaun" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svenjaun" alt="svenjaun" /></a> </p>
 
 - 🔭 I’m currently working on: **Private Python and C++ projects to automate my house with microcontrollers and raspberry pi**
@@ -36,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svenjaun&show_icons=true&locale=en" alt="svenjaun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svenjaun&" alt="svenjaun" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=svenjaun&label=Profile%20views&color=0e75b6&style=flat" alt="svenjaun" /> </p>
