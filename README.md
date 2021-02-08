@@ -42,7 +42,7 @@
     <br>
     &nbsp;
     <br>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="icons/postgresql" alt="postgresql" width="40" height="40"/> </a> 
+    <a href="https://www.postgresql.org" target="_blank"> <img src="icons/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
     <br>
     &nbsp;
     <br>
