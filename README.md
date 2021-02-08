@@ -35,14 +35,14 @@
     &nbsp;
     <br>
     <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>  
-    <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicons/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicons/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicons/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> 
-    <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicons/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+    <a href="https://nodejs.org" target="_blank"> <img src="icons/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://expressjs.com" target="_blank"> <img src="icons/express.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://angular.io" target="_blank"> <img src="icons/angularjs.svg" alt="angularjs" width="40" height="40"/> </a> 
+    <a href="https://sass-lang.com" target="_blank"> <img src="icons/sass.svg" alt="sass" width="40" height="40"/> </a> 
     <br>
     &nbsp;
     <br>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicons/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+    <a href="https://www.postgresql.org" target="_blank"> <img src="icons/postgresql" alt="postgresql" width="40" height="40"/> </a> 
     <br>
     &nbsp;
     <br>
