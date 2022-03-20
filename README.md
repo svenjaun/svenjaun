@@ -1,12 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Sven Jaun</h1>
-<h3 align="center">A apprentice software developer from Switzerland</h3>
+<h3 align="center">A software developer from Switzerland</h3>
 <h4 align="center">Currently I'm not very active on my github as I'm focusing on my education. But when I'm done with that, I'd like to start and finish more small projects and collaborate on more open source projects.  </h4>
 
 - 🔭 I’m currently working on: **Private Python and C++ projects to automate my house with microcontrollers and raspberry pi**
 
 - 🌱 I’m currently improving in: **Java and SQL**
-
-- 👯 I’m looking to collaborate on: **I would like to start as soon as I have time **
 
 - 👨‍💻 All of my projects are available at: [https://github.com/svenjaun](https://github.com/svenjaun)
 
@@ -49,6 +47,5 @@
 <p></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=svenjaun&show_icons=true&locale=en&layout=compact" alt="svenjaun" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=svenjaun&" alt="svenjaun" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=svenjaun&label=Profile%20views&color=0e75b6&style=flat" alt="svenjaun" /> </p>
 
