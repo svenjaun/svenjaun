@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/svenjaun](https://github.com/svenjaun)
 
-- 💬 Ask me about: **Java, Javascript, Python working with Ardunio or Raspberry Pi**
+- 💬 Ask me about: **Java, Javascript, Python, working with Ardunio or Raspberry Pi**
 
-- 📫 How to reach me: **sjaun@gmx.ch**
+- 📫 How to reach me: **github@sjaun.ch**
 
 - ⚡ Interesting about me: **Ever heard of a NFC-Implant? If you see me once you can scan me :D --- https://en.wikipedia.org/wiki/Microchip_implant_(human)**
 
